@@ -1,0 +1,25 @@
+{
+  "name": "recipe-finder",
+  "version": "1.0.0",
+  "description": "Recipe finder",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mrfarmer777/recipe-finder.git"
+  },
+  "keywords": [
+    "recipes"
+  ],
+  "author": "Matt Farmer and Wes Farmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrfarmer777/recipe-finder/issues"
+  },
+  "homepage": "https://github.com/mrfarmer777/recipe-finder#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
